@@ -1,1 +1,1 @@
-<img src=onload=propmt(document.domain)/>
+<img src=onload=console.log(document.domain)/>
