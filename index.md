@@ -1,1 +1,1 @@
-<img src=onload=console.log(document.domain)/>
+<script>prompt(document.doamin)</script>
