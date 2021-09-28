@@ -1,1 +1,1 @@
-<img src=x onerror=propmt(document.domain)>
+<img src=x onerror=propmt(document.domain)/>
